@@ -1,2 +1,0 @@
-# GANPriv
-GAN for competition.
